@@ -1,0 +1,7 @@
+{
+  "https://framer.com/m/Card-tH0r.js@TA1k03BJAHyhWGhJl29P": { "resolved": "https://framerusercontent.com/modules/GrHz4c7QNRi3fi2VH3h3/TA1k03BJAHyhWGhJl29P/jKZisqOoh.js", "integrity": "sha512-/4wHbVpw4SikY+vVqpAqUv6DzFwCkVQb9O3IuQv4lBYQfsaXuu02UUJEMj5/I7gqP2Lc5GoJAAvwKPtnu2HutQ==", "contentType": "text/javascript; charset=UTF-8" },
+  "https://framer.com/m/framer/randomID.js@^2.0.0": { "resolved": "https://framerusercontent.com/modules/9v9kZvfG4dVIvUGXWTUG/0XmuCxJqtgJLC9OHPU64/randomID.js", "integrity": "sha512-I+aLLdwOzklP4OSw18GaKkpPVOXMsJom4XsE1f7sHs6QAIRtiS0+u4KK+06kc4T24On08AaP54d6F3ZS5zhlNA==", "contentType": "text/javascript; charset=UTF-8" },
+  "https://framer.com/m/framer/useConstant.js@^1.0.0": { "resolved": "https://framerusercontent.com/modules/e6iTGMqgmkFJvN0mYhkr/KWXeR1JD2kMVZ95etjSs/useConstant.js", "integrity": "sha512-AWOENGlFPMLr/lWIIT5WyYDo8DWBJGywUpoDdSttgt2m0GZ/vm4xU5hI2eykze45HhprugVxpPjMFusU/FDpaA==", "contentType": "text/javascript; charset=UTF-8" },
+  "https://framerusercontent.com/modules/GrHz4c7QNRi3fi2VH3h3/TA1k03BJAHyhWGhJl29P/assets/yO2Fm5mzaMBHqQ7dDsopT1bFgc.jpeg": { "resolved": "https://framerusercontent.com/modules/assets/yO2Fm5mzaMBHqQ7dDsopT1bFgc~7Vz_8KShFG4dt8PobzpApMixmTEkxTUWXyjtIauvELI.jpeg", "integrity": "sha512-NdfccxyR8cIvuA5DEkry+yF6rndoTF3WfKxBT06xpwlLgAzgr5W6auQdQcmHRoCNHge2dZzIguPtq6aoT71nSA==", "contentType": "image/jpeg" },
+  "version": 1
+}

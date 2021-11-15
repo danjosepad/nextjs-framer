@@ -29,7 +29,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -54,6 +54,8 @@
   margin: 4rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
+  display: flex;
+  gap: 40px;
 }
 
 .code {
